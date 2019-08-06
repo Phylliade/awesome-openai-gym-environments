@@ -1,11 +1,11 @@
 # Awesome gym environments
-Curated list of gym environments:
+Curated list of environments compatible with [OpenAI gym](https://gym.openai.com/)
 
-## Generic: 
+## Generic
 
 * [gym-unity](https://github.com/Unity-Technologies/ml-agents/tree/master/gym-unity): Make Unity's ml-agents compatible with the gym interface
 
-## Robotics: 
+## Robotics
 
 * [OpenAI roboschool](https://github.com/openai/roboschool): Free robotics environments, that complement the Mujoco ones
 * [pybullet_env](https://github.com/bulletphysics/bullet3/tree/master/examples/pybullet/gym/pybullet_envs): Examples environments shipped with pybullet. From the official documentation: 
