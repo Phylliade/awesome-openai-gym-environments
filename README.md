@@ -7,7 +7,7 @@ Curated list of gym environments:
 
 ## Robotics: 
 
-* OpenAI roboschool: https://github.com/openai/roboschool: Free robotics environments, that complement the Mujoco ones
+* [OpenAI roboschool](https://github.com/openai/roboschool): Free robotics environments, that complement the Mujoco ones
 * [pybullet_env](https://github.com/bulletphysics/bullet3/tree/master/examples/pybullet/gym/pybullet_envs): Examples environments shipped with pybullet. From the official documentation: 
 ```
 PyBullet versions of the OpenAI Gym environments such as ant, hopper, humanoid and walker. There are also environments that apply in simulation as well as on real robots, such as the Ghost Robotics Minitaur quadruped, the MIT racecar and the KUKA robot arm grasping environments.
